@@ -1,9 +1,70 @@
 body {
-  color: #212121 !important;
-  background-color: #fff !important;
+  color: #212121;
+  background-color: #E6E6E6;
   font-family: 'Dancing Script', cursive;
   font-family: 'Roboto', sans-serif !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  height: 100% !important;
-}
+  margin: 0;
+  padding: 0;
+  height: 100%; }
+
+a {
+  color: black !important; }
+
+a:active {
+  color: black !important; }
+
+a:hover {
+  color: black !important;
+  text-decoration: none !important; }
+
+.head {
+  padding-top: 20px; }
+  .head__phone {
+    float: left;
+    width: 25px;
+    margin-right: 10px;
+    margin-top: 25px;
+    opacity: 0.7;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s;
+    transition: opacity 0.3s; }
+    .head__phone:hover {
+      opacity: 1;
+      -webkit-transition: opacity 0.3s;
+      -moz-transition: opacity 0.3s;
+      -o-transition: opacity 0.3s;
+      transition: opacity 0.3s; }
+  .head__text {
+    margin-top: 25px;
+    display: block;
+    opacity: 0.7;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s;
+    transition: opacity 0.3s; }
+    .head__text:hover {
+      opacity: 1;
+      -webkit-transition: opacity 0.3s;
+      -moz-transition: opacity 0.3s;
+      -o-transition: opacity 0.3s;
+      transition: opacity 0.3s; }
+  .head__title {
+    font-family: 'Dancing Script', cursive !important;
+    text-align: center;
+    font-size: 55px; }
+  .head__facebook {
+    margin-top: 25px;
+    float: right;
+    width: 25px;
+    opacity: 0.7;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s;
+    transition: opacity 0.3s; }
+    .head__facebook:hover {
+      opacity: 1;
+      -webkit-transition: opacity 0.3s;
+      -moz-transition: opacity 0.3s;
+      -o-transition: opacity 0.3s;
+      transition: opacity 0.3s; }
