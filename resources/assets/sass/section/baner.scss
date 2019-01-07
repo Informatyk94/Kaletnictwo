@@ -3,14 +3,24 @@
     h2{
         position: absolute;
         width: 100%;
-        top: 200px;
+        top: 266px;
         margin-left: auto;
         text-align: center;
         margin-right: auto;
-        font-size: 90px;
+        font-size: 70px;
         color: #fff;
-        text-shadow: 6px 5px 5px black;
-        font-family: 'Dancing Script', cursive !important;
+        text-transform: uppercase;
+    }
+    h3{
+        position: absolute;
+        width: 100%;
+        top: 405px;
+        margin-left: auto;
+        text-align: center;
+        margin-right: auto;
+        font-size: 30px;
+        color: #fff;
+        text-transform: uppercase;
     }
 }
 

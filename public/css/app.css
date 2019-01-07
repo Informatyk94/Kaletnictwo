@@ -90,7 +90,7 @@ a:hover {
     transition: background  0.3s, color 0.3s; }
     .menu .nav-link:hover {
       color: #fff !important;
-      background: #91bb73;
+      background: #9e6034;
       -webkit-transition: background   0.3s, color 0.3s;
       -moz-transition: background  0.3s, color 0.3s;
       -o-transition: background  0.3s, color 0.3s;
@@ -101,14 +101,23 @@ a:hover {
   .carousel-item h2 {
     position: absolute;
     width: 100%;
-    top: 200px;
+    top: 266px;
     margin-left: auto;
     text-align: center;
     margin-right: auto;
-    font-size: 90px;
+    font-size: 70px;
     color: #fff;
-    text-shadow: 6px 5px 5px black;
-    font-family: 'Dancing Script', cursive !important; }
+    text-transform: uppercase; }
+  .carousel-item h3 {
+    position: absolute;
+    width: 100%;
+    top: 405px;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+    font-size: 30px;
+    color: #fff;
+    text-transform: uppercase; }
 
 .carousel-control-next-icon {
   width: 40px !important;
@@ -121,3 +130,18 @@ a:hover {
 .carousel-indicators li {
   height: 5px !important;
   width: 70px !important; }
+
+.about {
+  margin-top: 114px; }
+  .about__title {
+    color: #9e6034;
+    text-align: center;
+    font-family: 'Dancing Script', cursive !important;
+    font-size: 41px;
+    font-weight: 700; }
+  .about__border {
+    border-top: 2px solid #9e6034;
+    margin-top: 24px; }
+  .about__text {
+    margin-top: 40px;
+    margin-bottom: 40px; }

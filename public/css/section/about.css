@@ -1,0 +1,14 @@
+.about {
+  margin-top: 114px; }
+  .about__title {
+    color: #9e6034;
+    text-align: center;
+    font-family: 'Dancing Script', cursive !important;
+    font-size: 41px;
+    font-weight: 700; }
+  .about__border {
+    border-top: 2px solid #9e6034;
+    margin-top: 24px; }
+  .about__text {
+    margin-top: 40px;
+    margin-bottom: 40px; }
