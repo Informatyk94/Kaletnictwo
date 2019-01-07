@@ -1,0 +1,25 @@
+.carousel-item {
+  height: 712px; }
+  .carousel-item h2 {
+    position: absolute;
+    width: 100%;
+    top: 200px;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+    font-size: 90px;
+    color: #fff;
+    text-shadow: 6px 5px 5px black;
+    font-family: 'Dancing Script', cursive !important; }
+
+.carousel-control-next-icon {
+  width: 40px !important;
+  height: 40px !important; }
+
+.carousel-control-prev-icon {
+  width: 40px !important;
+  height: 40px !important; }
+
+.carousel-indicators li {
+  height: 5px !important;
+  width: 70px !important; }

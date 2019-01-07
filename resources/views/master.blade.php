@@ -8,7 +8,7 @@
     <title>Kaletnictwo - skoczów</title>
 
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,700|Roboto:400,700&amp;subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,700|Roboto:400,500,700&amp;subset=latin-ext" rel="stylesheet">
 
     <!-- Styles -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
@@ -19,26 +19,19 @@
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
+    <!-- aos css-->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
 </head>
 <body id="app-layout">
-<div style="clear:both"></div>
-
-<div class="site-wrappper">
-    <div class="container site-content">
-
         @yield('content')
 
-    </div>
-</div>
-
-
 <!-- Footer -->
-<footer class="site-footer">
-    <div class="container">
-        <p>&copy; Kaletnictwo - skoczów 2018</p>
-    </div>
-</footer>
+{{--<footer class="site-footer">--}}
+    {{--<div class="container">--}}
+        {{--<p>&copy; Kaletnictwo - skoczów 2018</p>--}}
+    {{--</div>--}}
+{{--</footer>--}}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.common.js"></script>
 
 <!-- JavaScripts -->
@@ -62,6 +55,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-
+<!-- aos js-->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 </body>
 </html>

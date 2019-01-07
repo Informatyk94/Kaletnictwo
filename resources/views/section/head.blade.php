@@ -12,5 +12,6 @@
         <div class="col-sm-12 col-xl-3">
             <img class="head__facebook" src="/image/icons/facebook.png" />
         </div>
+        <div style="clear: both;"></div>
     </div>
 </div>

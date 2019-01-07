@@ -1,6 +1,8 @@
 @extends('master')
     @section('content')
-        @include('head')
+        @include('section.head')
+        @include('section.menu')
+        @include('section.baner')
 
 
     @stop()
