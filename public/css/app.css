@@ -137,11 +137,70 @@ a:hover {
     color: #9e6034;
     text-align: center;
     font-family: 'Dancing Script', cursive !important;
-    font-size: 41px;
+    font-size: 45px;
     font-weight: 700; }
   .about__border {
     border-top: 2px solid #9e6034;
     margin-top: 24px; }
   .about__text {
     margin-top: 40px;
+    margin-bottom: 80px; }
+
+.product {
+  background-image: url("/image/baner/4.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 114px;
+  padding-bottom: 68px; }
+  .product__title {
+    color: #fff;
+    text-align: center;
+    font-family: 'Dancing Script', cursive !important;
+    font-size: 41px;
+    font-weight: 700; }
+  .product__border {
+    border-top: 2px solid #fff;
+    margin-top: 24px; }
+  .product__text {
+    margin-top: 40px;
     margin-bottom: 40px; }
+  .product__img {
+    display: block;
+    border-radius: 10px; }
+  .product__section {
+    margin-top: 50px; }
+  .product__undertitle {
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 15px; }
+  .product__description {
+    margin-top: 10px;
+    color: #fff; }
+  .product__button {
+    border: 2px solid #fff;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    opacity: 0.8;
+    -webkit-transition: opacity   0.3s;
+    -moz-transition: opacity  0.3s;
+    -o-transition: opacity  0.3s;
+    transition: opacity  0.3s; }
+    .product__button:hover {
+      opacity: 1;
+      -webkit-transition: opacity   0.3s;
+      -moz-transition: opacity  0.3s;
+      -o-transition: opacity  0.3s;
+      transition: opacity  0.3s;
+      cursor: pointer; }

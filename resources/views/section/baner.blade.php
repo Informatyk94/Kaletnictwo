@@ -5,12 +5,12 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="/image/baner/1.jpg" class="d-block w-100" alt="...">
+            <img src="/image/baner/5.jpg" class="d-block w-100" alt="...">
             <h2>Odnaleź się w skórze</h2>
             <h3>Najlepsza jakość materiałów</h3>
         </div>
         <div class="carousel-item">
-            <img src="/image/baner/2.jpg" class="d-block w-100" alt="...">
+            <img src="/image/baner/6.jpg" class="d-block w-100" alt="...">
             <h2>Perfekcyjne wykonanie</h2>
             <h3>Każdy produkt i usługa zawsze perfekcyjnie wykonana</h3>
         </div>

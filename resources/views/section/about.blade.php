@@ -5,7 +5,7 @@
         <div class="col-sm-12 col-xl-2 about__border">
         </div>
         <div class="col-sm-12 col-xl-4">
-            <h2 class="about__title">O NAS</h2>
+            <h2 class="about__title">O nas</h2>
         </div>
         <div class="col-sm-12 col-xl-2 about__border">
         </div>

@@ -22,6 +22,9 @@
     <!-- aos css-->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
+    <!-- jquery cdn google -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 </head>
 <body id="app-layout">
         @yield('content')
