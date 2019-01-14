@@ -1,0 +1,50 @@
+.contact {
+  background-image: url("/image/contact/contact.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 114px;
+  padding-bottom: 68px; }
+  .contact__title {
+    color: #fff;
+    text-align: center;
+    font-family: 'Dancing Script', cursive !important;
+    font-size: 41px;
+    font-weight: 700;
+    margin-bottom: 50px; }
+  .contact__border {
+    border-top: 2px solid #fff;
+    margin-top: 24px; }
+  .contact__adress {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px; }
+  .contact__city {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 0; }
+  .contact__street {
+    text-align: center;
+    color: #fff; }
+  .contact__mailico {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 0px; }
+  .contact__mail {
+    text-align: center;
+    color: #fff !important;
+    display: block; }
+  .contact__phoneico {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 20px; }
+  .contact__phone {
+    text-align: center;
+    color: #fff !important;
+    display: block; }

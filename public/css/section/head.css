@@ -16,6 +16,12 @@
       -moz-transition: opacity 0.3s;
       -o-transition: opacity 0.3s;
       transition: opacity 0.3s; }
+  .head__link:hover .head__phone {
+    opacity: 1;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s;
+    transition: opacity 0.3s; }
   .head__text {
     margin-top: 25px;
     display: block;

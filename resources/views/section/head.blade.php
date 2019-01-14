@@ -1,8 +1,8 @@
 <div class="container">
     <div class="row head">
         <div class="col-sm-12 col-xl-3">
-            <a href="tel:123456789">
-                <img class="head__phone" src="/image/icons/phone.png" alt="telefon" />
+            <a class="head__link" href="tel:123456789">
+                <img class="head__phone" src="/image/icons/phone_black.png" alt="telefon" />
                 <div class="head__text">(+48) 123 456 789</div>
             </a>
         </div>
