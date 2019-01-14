@@ -5,6 +5,7 @@
         @include('section.baner')
         @include('section.about')
         @include('section.product')
+        @include('section.services')
 
 
     @stop()

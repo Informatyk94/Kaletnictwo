@@ -204,3 +204,29 @@ a:hover {
       -o-transition: opacity  0.3s;
       transition: opacity  0.3s;
       cursor: pointer; }
+
+.services {
+  margin-top: 114px; }
+  .services__title {
+    color: #9e6034;
+    text-align: center;
+    font-family: 'Dancing Script', cursive !important;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 50px; }
+  .services__border {
+    border-top: 2px solid #9e6034;
+    margin-top: 24px; }
+  .services__section {
+    margin-top: 0px; }
+  .services__img {
+    width: 100%;
+    max-height: 310px; }
+  .services__text {
+    color: #fff;
+    position: relative;
+    top: -97px;
+    right: -34px;
+    font-size: 25px;
+    width: 363px;
+    line-height: 35px; }
