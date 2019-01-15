@@ -7,6 +7,7 @@
         @include('section.product')
         @include('section.services')
         @include('section.contact')
+        @include('section.mapa')
 
 
     @stop()

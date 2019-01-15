@@ -23,17 +23,40 @@
     margin-bottom: 10px; }
   .contact__city {
     text-align: center;
-    color: #fff;
-    margin-bottom: 0; }
-  .contact__street {
-    text-align: center;
-    color: #fff; }
+    color: #fff !important;
+    margin-bottom: 0;
+    display: block;
+    opacity: 1;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s;
+    transition: opacity 0.3s; }
+    .contact__city:hover {
+      opacity: 0.8;
+      -ms-transform: scale(1, 1);
+      -webkit-transform: scale(1, 1);
+      transform: scale(1, 1);
+      -webkit-transition: opacity 0.3s, scale 0.3s;
+      -moz-transition: opacity 0.3s, scale 0.3s;
+      -o-transition: opacity 0.3s, scale 0.3s;
+      transition: opacity 0.3s, scale 0.3s; }
   .contact__mailico {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
-    margin-bottom: 0px; }
+    margin-bottom: 0px;
+    opacity: 1;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s;
+    transition: opacity 0.3s; }
+    .contact__mailico:hover {
+      opacity: 0.8;
+      -webkit-transition: opacity 0.3s;
+      -moz-transition: opacity 0.3s;
+      -o-transition: opacity 0.3s;
+      transition: opacity 0.3s; }
   .contact__mail {
     text-align: center;
     color: #fff !important;
@@ -47,4 +70,19 @@
   .contact__phone {
     text-align: center;
     color: #fff !important;
-    display: block; }
+    display: block;
+    opacity: 1;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s;
+    transition: opacity 0.3s; }
+    .contact__phone:hover {
+      opacity: 0.8;
+      -webkit-transition: opacity 0.3s;
+      -moz-transition: opacity 0.3s;
+      -o-transition: opacity 0.3s;
+      transition: opacity 0.3s; }
+  .contact a {
+    color: white !important; }
+  .contact a:active, .contact a:hover {
+    color: white !important; }

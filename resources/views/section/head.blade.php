@@ -7,7 +7,7 @@
             </a>
         </div>
         <div class="col-sm-12 col-xl-6">
-            <h1 class="head__title">Kaletnictwo Skoczów</h1>
+            <h1 class="head__title" data-aos="zoom-in">Kaletnictwo Skoczów</h1>
         </div>
         <div class="col-sm-12 col-xl-3">
             <img class="head__facebook" src="/image/icons/facebook.png" />
